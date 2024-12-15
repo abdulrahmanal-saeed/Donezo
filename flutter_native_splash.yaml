@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#484199" # لون الخلفية الأساسي
+  image: assets/logo/donezo_splashscreen.png # صورة ثابتة (PNG) تظهر في الشاشة الرئيسية
+  color_dark: "#484199" # لون الخلفية للوضع الداكن
+  image_dark: assets/logo/donezo_splashscreen.png # الصورة الثابتة للوضع الداكن
+
+  android_12:
+    image: assets/logo/donezo_splashscreen.png # صورة ثابتة لـ Android 12+
+    icon_background_color: "#484199" # لون خلفية الأيقونة
+    image_dark: assets/logo/donezo_splashscreen.png # صورة ثابتة للوضع الداكن
+    icon_background_color_dark: "#484199"
+
+
+  android: true
+  ios: true

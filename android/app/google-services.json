@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898107872958",
+    "project_id": "notabox-81f84",
+    "storage_bucket": "notabox-81f84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898107872958:android:5f027a052dd482e11330ef",
+        "android_client_info": {
+          "package_name": "com.o.notabox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dvK0-P44I50AgDDTxfu--AkfO22GX2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
